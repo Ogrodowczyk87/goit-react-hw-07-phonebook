@@ -1,0 +1,21 @@
+.deleteBtn {
+  border-radius: 4px;
+  height: 30px;
+  border: 1px solid black;
+  color: black;
+  width: 200px;
+}
+
+.deleteBtn:hover,
+.deleteBtn:focus {
+  outline: none;
+  border: 1px solid black;
+  outline: none;
+}
+
+.listItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
